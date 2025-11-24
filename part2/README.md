@@ -275,30 +275,4 @@ Example: GET Place returns:
   ]
 }
 ```
-
-Passwords are always stripped from user responses.
-
 ---
-
-## 🧪 Testing
-
-### Manual Testing
-
-* cURL commands
-* Postman collections
-* Swagger interface
-
-### Automated Testing
-
-* `unittest` or `pytest`
-* Test coverage for:
-
-  * API endpoints
-  * Validation rules
-  * Business logic methods
-
-You must also produce a **Testing Report** documenting all successfully and unsuccessfully tested cases.
-
----
-
-
