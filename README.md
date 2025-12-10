@@ -149,13 +149,3 @@ Here are examples of what YOU can create:
 🎬 **Animations** — Smooth transitions, hover effects
 📱 **Responsive Sites** — Work on phones + laptops
 
----
-
-# 🔥 **9. Tips for Azer**
-
-* Don’t rush — learn step by step.
-* Build small projects.
-* Explore animations (you love cool effects!).
-* Style like a **top-level pro**.
-
----
