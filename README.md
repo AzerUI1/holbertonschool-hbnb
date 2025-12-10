@@ -140,12 +140,4 @@ document.querySelector("h1").textContent = "Welcome Azer!";
 
 ---
 
-# 🌟 **8. What You'll Build**
-
-Here are examples of what YOU can create:
-
-🖼 **Forms** — Login, register
-🎮 **Mini‑games** — Clicking games, key controls
-🎬 **Animations** — Smooth transitions, hover effects
-📱 **Responsive Sites** — Work on phones + laptops
 
