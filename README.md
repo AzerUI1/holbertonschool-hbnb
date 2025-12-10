@@ -159,12 +159,3 @@ Here are examples of what YOU can create:
 * Style like a **top-level pro**.
 
 ---
-
-# 🚀 **Happy Web Developing!**
-
-If you want, I can also create:
-✨ Full project templates
-✨ Real website designs
-✨ Step-by-step tutorials
-
-Just say **“make me project X”**!
